@@ -1,3 +1,5 @@
-# listadefilme
+# listadegame
 
-- Projeto backend construido em Spring Boot API Rest
+- Projeto backend
+- construido em Spring Boot
+- API Rest
